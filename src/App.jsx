@@ -5,7 +5,7 @@ export default function App() {
 
   return (
     <main>
-      <h1>Hola Soy Yhojan Caro - "Aprendiz ADSO"</h1>
+      <h1>¡Hola! Soy Yhojan Caro - "Aprendiz ADSO"</h1>
       <h2>Quiero aprender todo lo relacionado con el desarrollo web y de aplicaciones</h2>
     </main>
   )
